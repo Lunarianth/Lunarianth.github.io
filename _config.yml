@@ -7,7 +7,7 @@ email: yunzeshengmingyue@gmail.com
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
-  - jekyll-sitema
+  - jekyll-sitemap
   - jekyll-paginate
 
 paginate: 18
