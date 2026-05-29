@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Agent-Skill"
+date: 2026-05-13
+categories: Skill
+tags: [Skill]
+toc: true
+---
+
 ## Agent Skills 开放标准
 
 Agent Skills 开放标准的本质是为 AI Agent 定义了一套 “能力封装与加载的通用语言”，它摒弃了定制化 Agent 的碎片化开发模式，用轻量、无依赖的文件系统结构，让 “通用 Agent + 可插拔 Skills” 成为大模型 Agent 落地的主流范式。
